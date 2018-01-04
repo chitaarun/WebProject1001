@@ -8,3 +8,4 @@ public class FirstfriendJava {
 		System.out.println("Generate a ssh key is not too much easy");
 		System.out.println("Add ssh key in your git hub account");
 	}
+}
